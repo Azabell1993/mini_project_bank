@@ -1,3 +1,6 @@
 # bankSystem
-# bankSystem22
-# mini_project_bank
+1. 은행 계좌 관리 프로그램
+2. 간단한 메모장 입.출력 프로그램
+
+김효은
+박지우
